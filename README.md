@@ -18,10 +18,6 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 
 <br>
 
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -31,4 +27,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o Grid!
+Projeto de um portal de notícias para praticar Grid
